@@ -35,4 +35,3 @@ while True:
         print(f"CPU:{cpu_score}")
         print(f"Plaer:{player_score}")
         break
-view raw
